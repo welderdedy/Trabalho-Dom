@@ -1,0 +1,150 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.principal{
+    width: 100%;
+    height: 100%;
+    
+    position: relative;
+    top:100px;
+}
+
+.legends{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    left:590px;
+  bottom:40px;
+   
+    
+}
+
+figure{
+    position: relative;
+    right: 140px;
+}
+
+.games{
+    width: 20%;
+    position:relative;
+    top:70px;
+    left:310px;
+
+}
+
+
+h1{
+    position: relative;
+    bottom:570px;
+    left:235px;
+}
+
+form{
+    position: relative;
+    bottom:830px;
+    left:190px;
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+
+    width: 5%;
+    height: 100%;
+    
+}
+
+.facebook{
+    position: relative;
+    bottom:422px;
+    left:240px;
+    width: 80%;
+    height: 100%;
+    background-color: blue;
+    border-radius:10px ;
+}
+.google{
+    width: 80%;
+    height: 100%;
+    position: relative;
+    bottom:476px;
+    left:418px;
+    background-color: red;
+    border-radius:10px ;
+}
+
+.aple{
+    width: 80%;
+    height: 80%;
+    position: relative;
+    bottom:536px;
+    left:580px;
+    background-color: black;
+    border-radius:20px;
+}
+
+
+
+ form {
+    color:gray;
+    width: 20%;
+    height: 50%;
+    background-color:gray;
+    position: relative;
+    bottom:510px;
+    right:20px;
+    font-size: 100px;
+    display: flex;
+    flex-direction: column ;
+ }
+ 
+ 
+h2{
+    position: relative;
+    bottom:510px;
+    left: 110px;
+   }
+
+   button{
+    width: 20%;
+    height: 8%;
+    background-color: red;
+    opacity: 1;
+    position: relative;
+    bottom:490px;
+    left: 170px;
+    border-radius:50px;
+    font-size: 30px;
+    }
+
+    .class{
+        display: block;
+    }
+
+   .paragrafo{
+    position: relative;
+    bottom:340px;
+    left: 218px; 
+   }
+
+   p{
+    position: relative;
+    bottom:390px;
+    left: 264px;
+   }
+   .league{
+    width: 10%;
+    position:relative;
+    bottom:400px;
+    right:30px;
+    display: none;
+    border-radius: 30px;
+    
+   }
+   .ativo{
+
+    display: initial;
+   }
